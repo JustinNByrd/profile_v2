@@ -18,6 +18,14 @@ header h1 {
    margin: 10px;
 }
 
+.card {
+	width: 100px;
+}
+
+h5 {
+	display: inline-block;
+}
+
 nav {
    display: flex 1;
    justify-content: right;
